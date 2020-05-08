@@ -1,4 +1,4 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <dl class="glossary">
 <dt class="glossary" id="abiotic_component" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abiotic_component" title="Abiotic component">abiotic component</a></dfn></dt>
 <dd class="glossary">Any non-living chemical or physical part of the environment that affects living <a href="#organism"><span title="See entry on this page at § organism" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">organisms</span></a> and the functioning of <a href="#ecosystem"><span title="See entry on this page at § ecosystem" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ecosystems</span></a>, such as the <a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth&#39;s atmosphere">atmosphere</a> and water resources.</dd>
@@ -150,7 +150,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="b_cell" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/B_cell" title="B cell">B cell</a></dfn></dt>
 <dd class="glossary">A type of lymphocyte in the humoral immunity of the adaptive immune system.</dd>
@@ -289,7 +288,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="calvin_cycle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Light-independent_reactions#Coupling_to_other_metabolic_pathways" class="mw-redirect" title="Light-independent reactions">Calvin cycle</a></dfn></dt>
 <dd class="glossary">The Calvin cycle, light-independent reactions, bio synthetic phase, dark reactions, or photosynthetic carbon reduction (PCR) cycle<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> of <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a> are the chemical reactions that convert carbon dioxide and other compounds into <a href="/wiki/Glucose" title="Glucose">glucose</a>. These reactions occur in the <a href="/wiki/Stroma_(fluid)" title="Stroma (fluid)">stroma</a>, the fluid-filled area of a <a href="/wiki/Chloroplast" title="Chloroplast">chloroplast</a> outside the <a href="/wiki/Thylakoid_membranes" class="mw-redirect" title="Thylakoid membranes">thylakoid membranes</a>. These reactions take the products (<a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a> and <a href="/wiki/NADPH" class="mw-redirect" title="NADPH">NADPH</a>) of <a href="/wiki/Light-dependent_reactions" title="Light-dependent reactions">light-dependent reactions</a> and perform further chemical processes on them. There are three phases to the light-independent reactions, collectively called the <i>Calvin cycle</i>: carbon fixation, reduction reactions, and ribulose 1,5-bisphosphate (RuBP) regeneration.</dd>
@@ -460,7 +458,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="darwinian_fitness" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Darwinian_fitness" class="mw-redirect" title="Darwinian fitness">Darwinian fitness</a></dfn></dt>
 <dd class="glossary">The genetic contribution of an individual to the next generation's gene pool relative to the average for the population, usually measured by the number of offspring or close kin that survive to reproductive age.</dd>
@@ -551,7 +548,6 @@
 </div></div></div><p>dimorphism
 </p><p>The existence among animals of same species of two distinct forms that differ in one Or more characteristics such as colour ,size etc
 </p>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ecological_efficiency" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">ecological efficiency</a></dfn></dt>
 <dd class="glossary">The efficiency with which energy is transferred from one <a href="/wiki/Trophic_level" title="Trophic level">trophic level</a> to the next. It is determined by a combination of efficiencies relating to organismic resource acquisition and assimilation in an <a href="#ecosystem"><span title="See entry on this page at § ecosystem" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ecosystem</span></a>. <a href="/wiki/Primary_production" title="Primary production">Primary production</a> occurs in <a href="#autotroph"><span title="See entry on this page at § autotroph" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">autotrophic</span></a> organisms of an ecosystem.</dd>
@@ -749,7 +745,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="facultative_anaerobe" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Facultative_anaerobic_organism" title="Facultative anaerobic organism">facultative anaerobe</a></dfn></dt>
 <dd class="glossary">An organism which is capable of producing <a href="/wiki/Energy" title="Energy">energy</a> through <a href="/wiki/Aerobic_respiration" class="mw-redirect" title="Aerobic respiration">aerobic respiration</a> and then switching to <a href="/wiki/Anaerobic_respiration" title="Anaerobic respiration">anaerobic respiration</a> depending on the amounts of oxygen and fermentable material in the environment.</dd>
@@ -824,7 +819,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="g_protein" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/G_protein" title="G protein">G protein</a></dfn></dt>
 <dd class="glossary">A family of <a href="#protein"><span title="See entry on this page at § protein" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">proteins</span></a> that act as molecular switches inside <a href="#cell"><span title="See entry on this page at § cell" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cells</span></a>, and are implicated in transmitting signals from a diversity of stimuli outside a cell to its interior.</dd>
@@ -903,7 +897,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="habitat" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Habitat" title="Habitat">habitat</a></dfn></dt>
 <dd class="glossary">A place for animals, people, and plants and non-living things.</dd>
@@ -976,7 +969,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ichthyology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ichthyology" title="Ichthyology">ichthyology</a></dfn></dt>
 <dd class="glossary">The branch of biology devoted to the study of <a href="/wiki/Fish" title="Fish">fish</a>, including bony fishes (Osteichthyes), cartilaginous fish (Chondrichthyes), and jawless fish (Agnatha).</dd>
@@ -1067,13 +1059,11 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="jejunum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jejunum" title="Jejunum">jejunum</a></dfn></dt>
 <dd class="glossary"> like gher vertebrates like mammals, birds, and reptiles. It is present between the <a href="/wiki/Duodenum" title="Duodenum">duodenum</a> and the <a href="/wiki/Ileum" title="Ileum">ileum</a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="kinase" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kinase" title="Kinase">kinase</a></dfn></dt>
 <dd class="glossary">An <a href="#enzyme"><span title="See entry on this page at § enzyme" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">enzyme</span></a> that catalyzes the transfer of phosphate groups from high-energy, phosphate-donating molecules to specific substrates.</dd>
@@ -1085,7 +1075,6 @@
 <dd class="glossary">See <i><a href="#citric_acid_cycle"><span title="See entry on this page at § citric acid cycle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">citric acid cycle</span></a></i>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="larva" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Larva" title="Larva">larva</a></dfn></dt>
 <dd class="glossary"><i>(pl.)</i> <b>larvae</b></dd>
@@ -1156,7 +1145,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="m_phase" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/M_phase" class="mw-redirect" title="M phase">M phase</a></dfn></dt>
 <dd class="glossary">Mitosis and cytokinesis together define the mitotic (M) phase of an animal cell cycle – the division of the mother cell into two daughter cells, genetically identical to each other and to their parent cell.</dd>
@@ -1290,7 +1278,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="natural_selection" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Natural_selection" title="Natural selection">natural selection</a></dfn></dt>
 <dd class="glossary"> A process in nature in which organisms possessing certain <a href="#genotype"><span title="See entry on this page at § genotype" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genotypic</span></a> characteristics that make them better adjusted to an environment tend to survive, reproduce, increase in number or <a href="/wiki/Gene_frequency" class="mw-redirect" title="Gene frequency">frequency</a>, and therefore, are able to transmit and perpetuate their essential genotypic qualities to succeeding generations.</dd>
@@ -1361,7 +1348,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="offspring" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Offspring" title="Offspring">offspring</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1416,7 +1402,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="paleontology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Paleontology" title="Paleontology">paleontology</a></dfn></dt>
 <dd class="glossary">The study of the history of life on Earth as reflected in the fossil record. Fossils are the remains or traces of organisms (plants, animals, fungi, bacteria and other single-celled living things) that lived in the geological past and are preserved in the crust of the Earth.</dd>
@@ -1573,7 +1558,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=17" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="regeneration" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Regeneration_(biology)" title="Regeneration (biology)">regeneration</a></dfn></dt>
 <dd class="glossary">The process of renewal, restoration, and growth that makes genomes, cells, organisms, and ecosystems resilient to natural fluctuations or events that cause disturbance or damage.</dd>
@@ -1597,7 +1581,6 @@
 <dd class="glossary">A member of a family of <a href="/wiki/Enzymes" class="mw-redirect" title="Enzymes">enzymes</a> that are essential to life: they are found in all organisms and many <a href="/wiki/Viruses" class="mw-redirect" title="Viruses">viruses</a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=18" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="sclerenchyma" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ground_tissue#Sclerenchyma" title="Ground tissue">sclerenchyma</a></dfn></dt>
 <dd class="glossary">A type of <a href="#tissue"><span title="See entry on this page at § tissue" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tissue</span></a> in which cells have thick lignified secondary walls and often die when mature.</dd>
@@ -1703,7 +1686,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=19" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="t_cell" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/T_cell" title="T cell">T cell</a></dfn></dt>
 <dd class="glossary">A type of <a href="/wiki/Lymphocyte" title="Lymphocyte">lymphocyte</a> that plays a central role in cell-mediated <a href="/wiki/Immunity_(medical)" title="Immunity (medical)">immunity</a>.</dd>
@@ -1777,7 +1759,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=20" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="unicellular" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Unicellular_organism" title="Unicellular organism">unicellular</a></dfn></dt>
 <dd class="glossary">Having or consisting of only one <a href="#cell"><span title="See entry on this page at § cell" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cell</span></a>, as opposed to being <a href="#multicellular"><span title="See entry on this page at § multicellular" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">multicellular</span></a>.</dd>
@@ -1795,7 +1776,6 @@
 <dd class="glossary">A major female hormone-responsive secondary sex organ of the <a href="/wiki/Reproductive_system" title="Reproductive system">reproductive system</a> in humans and most other <a href="/wiki/Mammals" class="mw-redirect" title="Mammals">mammals</a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=21" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="vacuole" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vacuole" title="Vacuole">vacuole</a></dfn></dt>
 <dd class="glossary">A membrane-bound organelle which is present in all plant and fungal cells and some protist, animal and bacterial cells.</dd>
@@ -1862,7 +1842,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="white_blood_cell" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/White_blood_cell" title="White blood cell">white blood cell</a></dfn></dt>
 <dd class="glossary">See <i><a href="/wiki/Leukocyte" class="mw-redirect" title="Leukocyte">leukocyte</a></i>.</dd>
@@ -1877,7 +1856,6 @@
 <dd class="glossary">The inner layer of the stems of woody plants, composed of <a href="/wiki/Xylem" title="Xylem">xylem</a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=23" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="xanthophyll" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xanthophyll" title="Xanthophyll">xanthophyll</a></dfn></dt>
 <dd class="glossary">The yellow colored photosynthetic pigments.</dd>
@@ -1886,13 +1864,11 @@
 <dd class="glossary">The plant tissue responsible for the conduction of water from roots to aerial parts of the plant. It forms the woody part of the plant.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=24" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="yolk" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yolk" title="Yolk">yolk</a></dfn></dt>
 <dd class="glossary">The nutrient-bearing portion of the egg whose primary function is to supply food for the development of the <a href="#embryo"><span title="See entry on this page at § embryo" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">embryo</span></a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_biology&amp;action=edit&amp;section=25" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="zoology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zoology" title="Zoology">zoology</a></dfn></dt>
 <dd class="glossary">The branch of biology that studies the animal kingdom, including the <a href="/wiki/Structure" title="Structure">structure</a>, <a href="/wiki/Embryology" title="Embryology">embryology</a>, <a href="#evolution"><span title="See entry on this page at § evolution" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">evolution</span></a>, <a href="/wiki/Scientific_classification" class="mw-redirect" title="Scientific classification">classification</a>, <a href="/wiki/Habits" class="mw-redirect" title="Habits">habits</a>, and distribution of all animals, both living and extinct, and how they interact with their <a href="/wiki/Ecosystems" class="mw-redirect" title="Ecosystems">ecosystems</a>.</dd>
