@@ -32,7 +32,8 @@
 <dd class=""glossary"">Transport of a substance (such as a protein or <a href=""#drug""><span title=""See entry on this page at § drug"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">drug</span></a>) across a <a href=""#membrane""><span title=""See entry on this page at § membrane"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cell membrane</span></a> against a <a href=""https://en.wikipedia.org/wiki/Concentration_gradient"" class=""mw-redirect"" title=""Concentration gradient"">concentration gradient</a>. Unlike <a href=""#passive_transport""><span title=""See entry on this page at § passive transport"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">passive transport</span></a>, active transport requires an expenditure of energy.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Adaptation"" title=""Adaptation"">adaptation</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Adaptive_radiation"" title=""Adaptive radiation"">adaptive radiation</a>"|"
 <dd class=""glossary"">The process by which organisms diversify rapidly from an ancestral <a href=""#species""><span title=""See entry on this page at § species"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">species</span></a> into a multitude of new forms, particularly when a change in the <a href=""#environment""><span title=""See entry on this page at § environment"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">environment</span></a> makes new resources available, creates new challenges, or opens new <a href=""#niche""><span title=""See entry on this page at § niche"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">niches</span></a>.</dd>
@@ -72,7 +73,8 @@
 <dd class=""glossary"">An organism which produces an <a href=""https://en.wikipedia.org/wiki/Egg"" title=""Egg"">egg</a> composed of a shell and membranes that creates a protected environment in which the <a href=""#embryo""><span title=""See entry on this page at § embryo"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">embryo</span></a> can develop out of water.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Anaerobic_organism"" title=""Anaerobic organism"">anaerobic</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Analogous_structures"" class=""mw-redirect"" title=""Analogous structures"">analogous structures</a>"|"
 <dd class=""glossary"">A set of <a href=""#morphology""><span title=""See entry on this page at § morphology"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">morphological</span></a> structures in different organisms which have similar form or function but were not present in the organisms' <a href=""#last_common_ancestor""><span title=""See entry on this page at § last common ancestor"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">last common ancestor</span></a>. The <a href=""https://en.wikipedia.org/wiki/Cladistic"" class=""mw-redirect"" title=""Cladistic"">cladistic</a> term for the same phenomenon is <a href=""https://en.wikipedia.org/wiki/Cladogram#Measuring_homoplasy"" title=""Cladogram"">homoplasy</a>.</dd>
@@ -94,7 +96,8 @@
 <dd class=""glossary"">The scientific study of <a href=""https://en.wikipedia.org/wiki/Spiders"" class=""mw-redirect"" title=""Spiders"">spiders</a>, <a href=""https://en.wikipedia.org/wiki/Scorpion"" title=""Scorpion"">scorpions</a>, <a href=""https://en.wikipedia.org/wiki/Pseudoscorpion"" title=""Pseudoscorpion"">pseudoscorpions</a>, and <a href=""https://en.wikipedia.org/wiki/Opiliones"" title=""Opiliones"">harvestmen</a>, collectively called <a href=""https://en.wikipedia.org/wiki/Arachnid"" title=""Arachnid"">arachnids</a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Archaea"" title=""Archaea"">archaea</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Selective_breeding"" title=""Selective breeding"">artificial selection</a>"|"
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also called <b>selective breeding</b>.</span></p>
@@ -198,7 +201,8 @@
 <dd class=""glossary"">A form of terrestrial locomotion where an organism moves by means of its two rear limbs or legs.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Birth"" title=""Birth"">birth</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Blastocyst"" title=""Blastocyst"">blastocyst</a>"|"
 <dd class=""glossary"">A mammalian <a href=""https://en.wikipedia.org/wiki/Blastula"" title=""Blastula"">blastula</a> in which some differentiation of cells has occurred.</dd>
@@ -283,7 +287,8 @@
 <dd class=""glossary"">A branch of the physical sciences that studies the composition, structure, properties, and change of <a href=""https://en.wikipedia.org/wiki/Matter"" title=""Matter"">matter</a>. Chemical interactions underlie all biological processes.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Chemosynthesis"" title=""Chemosynthesis"">chemosynthesis</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Chlorophyll"" title=""Chlorophyll"">chlorophyll</a>"|"
 <dd class=""glossary"">Any of several <a href=""#photosynthesis""><span title=""See entry on this page at § photosynthesis"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">photosynthetic</span></a> pigments found in <a href=""https://en.wikipedia.org/wiki/Cyanobacteria"" title=""Cyanobacteria"">cyanobacteria</a>, <a href=""https://en.wikipedia.org/wiki/Algae"" title=""Algae"">algae</a>, or <a href=""#plant""><span title=""See entry on this page at § plant"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">plants</span></a>.</dd>
@@ -298,20 +303,24 @@
 <dd class=""glossary"">A threadlike strand of <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a> in the <a href=""https://en.wikipedia.org/wiki/Cell_nucleus"" title=""Cell nucleus"">cell nucleus</a> that carries the <a href=""https://en.wikipedia.org/wiki/Gene"" title=""Gene"">genes</a> in a linear order.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Cilia"" class=""mw-redirect"" title=""Cilia"">cilia</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Circadian_rhythm"" title=""Circadian rhythm"">circadian rhythm</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Citric_acid_cycle"" title=""Citric acid cycle"">citric acid cycle</a>"|"
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also called the <b>Krebs cycle</b> and <b>tricarboxylic acid cycle (TCA)</b>.</span></p>
 <dd class=""glossary"">A series of chemical reactions used by all aerobic organisms to generate energy through the oxidation of acetyl-CoA derived from carbohydrates, fats and proteins into carbon dioxide and chemical energy in the form of guanosine triphosphate (GTP). In addition, the cycle provides precursors of certain amino acids as well as the reducing agent NADH that is used in numerous other biochemical reactions. Its central importance to many biochemical pathways suggests that it was one of the earliest established components of cellular metabolism and may have originated abiogenically.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Clade"" title=""Clade"">clade</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Class_(biology)"" title=""Class (biology)"">class</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Clonal_selection"" title=""Clonal selection"">clonal selection</a>"|"
 <dd class=""glossary"">Clonal selection theory is a <a href=""https://en.wikipedia.org/wiki/Scientific_theory"" title=""Scientific theory"">scientific theory</a> in <a href=""https://en.wikipedia.org/wiki/Immunology"" title=""Immunology"">immunology</a> that explains the functions of cells (<a href=""https://en.wikipedia.org/wiki/Lymphocytes"" class=""mw-redirect"" title=""Lymphocytes"">lymphocytes</a>) of the <a href=""https://en.wikipedia.org/wiki/Immune_system"" title=""Immune system"">immune system</a> in response to specific <a href=""https://en.wikipedia.org/wiki/Antigens"" class=""mw-redirect"" title=""Antigens"">antigens</a> invading the body. The theory has become the widely accepted model for how the <a href=""https://en.wikipedia.org/wiki/Immune_system"" title=""Immune system"">immune system</a> responds to <a href=""https://en.wikipedia.org/wiki/Infection"" title=""Infection"">infection</a> and how certain types of <a href=""https://en.wikipedia.org/wiki/B_cells"" class=""mw-redirect"" title=""B cells"">B</a> and <a href=""https://en.wikipedia.org/wiki/T_lymphocytes"" class=""mw-redirect"" title=""T lymphocytes"">T lymphocytes</a> are selected for destruction of specific <a href=""https://en.wikipedia.org/wiki/Antigens"" class=""mw-redirect"" title=""Antigens"">antigens</a>.<sup id=""cite_ref-Rajewsky1996_2-0"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_biology#cite_note-Rajewsky1996-2"">&#91;2&#93;</a></sup> </dd>
@@ -320,7 +329,8 @@
 <dd class=""glossary"">The process of producing similar populations of genetically identical individuals that occurs in nature when organisms such as bacteria, insects or plants reproduce asexually.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Colony_(biology)"" title=""Colony (biology)"">colony</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Conservation_biology"" title=""Conservation biology"">conservation biology</a>"|"
 <dd class=""glossary"">The scientific study of nature and of Earth's biodiversity with the aim of protecting species, their habitats, and ecosystems from excessive rates of extinction and the erosion of biotic interactions.</dd>
@@ -356,7 +366,8 @@
 <dd class=""glossary"">Deciduous means ""falling off at maturity"" or ""tending to fall off"", and it is typically used in order to refer to trees or shrubs that lose their leaves seasonally (most commonly during autumn) and to the shedding of other plant structures such as petals after flowering or fruit when ripe.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Decomposition"" title=""Decomposition"">decomposition</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Dehydration_reaction"" title=""Dehydration reaction"">dehydration reaction</a>"|"
 <dd class=""glossary"">A chemical reaction that involves the loss of a <a href=""https://en.wikipedia.org/wiki/Water_molecule"" class=""mw-redirect"" title=""Water molecule"">water molecule</a> from the reacting molecule.</dd>
@@ -384,7 +395,8 @@
 <dd class=""glossary"">The branch of biology that studies the processes by which living organisms grow and develop over time. The field may also encompass the study of <a href=""#reproduction""><span title=""See entry on this page at § reproduction"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">reproduction</span></a>, <a href=""#regeneration""><span title=""See entry on this page at § regeneration"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">regeneration</span></a>, <a href=""#metamorphosis""><span title=""See entry on this page at § metamorphosis"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">metamorphosis</span></a>, and the growth and differentiation of <a href=""#stem_cell""><span title=""See entry on this page at § stem cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">stem cells</span></a> in mature tissues.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Disease"" title=""Disease"">disease</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/DNA"" title=""DNA"">DNA</a>"|"
 <dd class=""glossary"">See <i><a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">deoxyribonucleic acid</span></a></i>.</dd>
@@ -396,7 +408,8 @@
 <dd class=""glossary"">The process of determining the precise order of <a href=""https://en.wikipedia.org/wiki/Nucleotides"" class=""mw-redirect"" title=""Nucleotides"">nucleotides</a> within a <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a> molecule.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Drug"" title=""Drug"">drug</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Dynein"" title=""Dynein"">dynein</a>"|"
 <dd class=""glossary"">A motor protein (also called molecular motor or motor molecule) in cells which converts the chemical energy contained in ATP into the mechanical energy of movement.</dd>
@@ -526,7 +539,8 @@
 <dd class=""glossary"">An organism that grows on the surface of a <a href=""https://en.wikipedia.org/wiki/Plant"" title=""Plant"">plant</a> and derives its <a href=""https://en.wikipedia.org/wiki/Moisture"" title=""Moisture"">moisture</a> and <a href=""https://en.wikipedia.org/wiki/Nutrients"" class=""mw-redirect"" title=""Nutrients"">nutrients</a> from the air, rain, marine environments or from debris accumulating around it.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Essential_nutrient"" class=""mw-redirect"" title=""Essential nutrient"">essential nutrient</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Estrogen"" title=""Estrogen"">estrogen</a>"|"
 <dd class=""glossary"">The primary female sex <a href=""#hormone""><span title=""See entry on this page at § hormone"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">hormone</span></a>.</dd>
@@ -556,7 +570,8 @@
 <dd class=""glossary"">A type of <a href=""#fertilization""><span title=""See entry on this page at § fertilization"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">fertilization</span></a> in which a <a href=""#sperm""><span title=""See entry on this page at § sperm"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">sperm</span></a> unites with an <a href=""#egg""><span title=""See entry on this page at § egg"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">egg</span></a> external to the body or bodies of the parent organisms. Contrast <i><a href=""#internal_fertilization""><span title=""See entry on this page at § internal fertilization"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">internal fertilization</span></a></i>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Extinction"" title=""Extinction"">extinction</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Extracellular"" title=""Extracellular"">extracellular</a>"|"
 <dd class=""glossary"">Of or occurring in the space outside the <a href=""#cell_membrane""><span title=""See entry on this page at § cell membrane"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">plasma membrane</span></a> of a <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cell</span></a>. Contrast <i><a href=""#intracellular""><span title=""See entry on this page at § intracellular"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">intracellular</span></a></i>.</dd>
@@ -568,19 +583,23 @@
 <dd class=""glossary"">An organism which is capable of producing <a href=""https://en.wikipedia.org/wiki/Energy"" title=""Energy"">energy</a> through <a href=""https://en.wikipedia.org/wiki/Aerobic_respiration"" class=""mw-redirect"" title=""Aerobic respiration"">aerobic respiration</a> and then switching to <a href=""https://en.wikipedia.org/wiki/Anaerobic_respiration"" title=""Anaerobic respiration"">anaerobic respiration</a> depending on the amounts of oxygen and fermentable material in the environment.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Family_(biology)"" title=""Family (biology)"">family</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fermentation"" title=""Fermentation"">fermentation</a>"|"
 <dd class=""glossary"">A <a href=""#metabolism""><span title=""See entry on this page at § metabolism"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">metabolic</span></a> process that consumes <a href=""https://en.wikipedia.org/wiki/Sugar"" title=""Sugar"">sugar</a> in the absence of <a href=""https://en.wikipedia.org/wiki/Oxygen"" title=""Oxygen"">oxygen</a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fitness_(biology)"" title=""Fitness (biology)"">fitness</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fitness_landscape"" title=""Fitness landscape"">fitness landscape</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fertilization"" class=""mw-redirect"" title=""Fertilization"">fertilization</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fetus"" title=""Fetus"">fetus</a>"|"
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also spelled <b>foetus</b>.</span></p>
@@ -600,13 +619,15 @@
 <dd class=""glossary"">A loss of genetic variation that takes places when a new <a href=""https://en.wikipedia.org/wiki/Population"" title=""Population"">population</a> is established by a very small number of individuals from a larger population.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fungi"" class=""mw-redirect"" title=""Fungi"">fungi</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/G_protein"" title=""G protein"">G protein</a>"|"
 <dd class=""glossary"">A family of <a href=""#protein""><span title=""See entry on this page at § protein"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">proteins</span></a> that act as molecular switches inside <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cells</span></a>, and are implicated in transmitting signals from a diversity of stimuli outside a cell to its interior.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Gamete"" title=""Gamete"">gamete</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Gene"" title=""Gene"">gene</a>"|"
 <dd class=""glossary"">Any segment of <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a> that contains the information necessary to produce a functional <a href=""#rNA""><span title=""See entry on this page at § RNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">RNA</span></a> and/or <a href=""#protein""><span title=""See entry on this page at § protein"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">protein</span></a> product in a controlled manner. Genes are often considered the fundamental molecular units of <a href=""#heredity""><span title=""See entry on this page at § heredity"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">heredity</span></a>. The transmission of genes from a parent cell or organism to its <a href=""#offspring""><span title=""See entry on this page at § offspring"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">offspring</span></a> is the basis of the inheritance of <a href=""#trait""><span title=""See entry on this page at § trait"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">phenotypic traits</span></a>.</dd>
@@ -615,7 +636,8 @@
 <dd class=""glossary"">A set of all <a href=""https://en.wikipedia.org/wiki/Genes"" class=""mw-redirect"" title=""Genes"">genes</a>, or genetic information, in any population, usually of a particular <a href=""#species""><span title=""See entry on this page at § species"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">species</span></a>.</dd>
 "
 "generation"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Genetic_code"" title=""Genetic code"">genetic code</a>"|"
 <dd class=""glossary"">A set of rules used by living <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cells</span></a> to translate information encoded within <a href=""https://en.wikipedia.org/wiki/Genetic_material"" class=""mw-redirect"" title=""Genetic material"">genetic material</a> (DNA or mRNA sequences) into proteins.</dd>
@@ -636,7 +658,8 @@
 <dd class=""glossary"">Part of the genetic makeup of a <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cell</span></a>, and therefore of an organism or individual, which determines one of its characteristics (phenotype).</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Genus"" title=""Genus"">genus</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Gizzard"" title=""Gizzard"">gizzard</a>"|"
 <dd class=""glossary"">An organ found in the <a href=""https://en.wikipedia.org/wiki/Digestive_tract"" class=""mw-redirect"" title=""Digestive tract"">digestive tract</a> of some animals, including <a href=""https://en.wikipedia.org/wiki/Archosaurs"" class=""mw-redirect"" title=""Archosaurs"">archosaurs</a> (pterosaurs, crocodiles, alligators, and dinosaurs, including birds), earthworms, some <a href=""https://en.wikipedia.org/wiki/Gastropods"" class=""mw-redirect"" title=""Gastropods"">gastropods</a>, some <a href=""https://en.wikipedia.org/wiki/Fish"" title=""Fish"">fish</a>, and some <a href=""https://en.wikipedia.org/wiki/Crustaceans"" class=""mw-redirect"" title=""Crustaceans"">crustaceans</a>.</dd>
@@ -663,7 +686,8 @@
 <dd class=""glossary"">The improved or increased function of any biological quality in a <a href=""#hybrid""><span title=""See entry on this page at § hybrid"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">hybrid</span></a> <a href=""#offspring""><span title=""See entry on this page at § offspring"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">offspring</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Heterotroph"" title=""Heterotroph"">heterotroph</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Histology"" title=""Histology"">histology</a>"|"
 <dd class=""glossary"">The study of the microscopic anatomy of cells and tissues of plants and animals.</dd>
@@ -675,7 +699,8 @@
 <dd class=""glossary"">Any living organism that harbors another living organism (known as a ""guest"" or <a href=""#symbiont""><span title=""See entry on this page at § symbiont"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">symbiont</span></a>), whether the guest is <a href=""#parasite""><span title=""See entry on this page at § parasite"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">parasitic</span></a>, <a href=""https://en.wikipedia.org/wiki/Mutualism_(biology)"" title=""Mutualism (biology)"">mutualistic</a>, or <a href=""https://en.wikipedia.org/wiki/Commensalism"" title=""Commensalism"">commensalist</a> in its interactions with the host. The guest typically receives shelter and nourishment from the host.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Hybrid_(biology)"" title=""Hybrid (biology)"">hybrid</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Hydrocarbon"" title=""Hydrocarbon"">hydrocarbon</a>"|"
 <dd class=""glossary"">An organic compound consisting entirely of hydrogen and carbon atoms. Hydrocarbons from which one hydrogen atom has been removed are functional groups called hydrocarbyls.</dd>
@@ -687,7 +712,8 @@
 <dd class=""glossary"">The immune response is how your body recognizes and defends itself against bacteria, viruses, and substances that appear foreign and harmful.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Immunity_(medical)"" title=""Immunity (medical)"">immunity</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Immunogloblin"" class=""mw-redirect"" title=""Immunogloblin"">immunogloblin</a>"|"
 <dd class=""glossary"">Glycoprotein molecules produced by plasma cells (white blood cells) which act as a critical part of the immune response by specifically recognizing and binding to particular <a href=""https://en.wikipedia.org/wiki/Antigen"" title=""Antigen"">antigens</a>, such as bacteria or viruses, and aiding in their destruction. Also known as <i><a href=""https://en.wikipedia.org/wiki/Antibodies"" class=""mw-redirect"" title=""Antibodies"">antibodies</a></i>.</dd>
@@ -711,13 +737,15 @@
 <dd class=""glossary"">(French: <i>Système international d'unités</i>; abbreviated SI) The modern form of the metric system, and the most widely used system of measurement.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Interphase"" title=""Interphase"">interphase</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Intracellular"" title=""Intracellular"">intracellular</a>"|"
 <dd class=""glossary"">Of or occurring inside or within the enclosed interior of a <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cell</span></a>. Contrast <i><a href=""#extracellular""><span title=""See entry on this page at § extracellular"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">extracellular</span></a></i>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Introduced_species"" title=""Introduced species"">introduced species</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Invertebrate"" title=""Invertebrate"">invertebrate</a>"|"
 <dd class=""glossary"">A group of animals that have no backbone, unlike animals such as reptiles, amphibians, fish, birds and mammals, which all have a backbone.</dd>
@@ -741,7 +769,8 @@
 <dd class=""glossary"">An <a href=""#enzyme""><span title=""See entry on this page at § enzyme"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">enzyme</span></a> that catalyzes the transfer of phosphate groups from high-energy, phosphate-donating molecules to specific substrates.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Kingdom_(biology)"" title=""Kingdom (biology)"">kingdom</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Krebs_cycle"" class=""mw-redirect"" title=""Krebs cycle"">Krebs cycle</a>"|"
 <dd class=""glossary"">See <i><a href=""#citric_acid_cycle""><span title=""See entry on this page at § citric acid cycle"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">citric acid cycle</span></a></i>.</dd>
@@ -757,13 +786,16 @@
 <dd class=""glossary"">A colourless cell which circulates in the blood and body fluids and is involved in counteracting foreign substances and disease; sometimes called a <i>white blood cell</i>. There are several types, all amoeboid cells with a nucleus, including lymphocytes, granulocytes, and monocytes.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Lichen"" title=""Lichen"">lichen</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Life"" title=""Life"">life</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Biological_life_cycle"" title=""Biological life cycle"">life cycle</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Ligament"" title=""Ligament"">ligament</a>"|"
 <dd class=""glossary"">The fibrous connective tissue that connects bones to other bones and is also known as <i>articular ligament</i>, <i>articular larua</i>, <i>fibrous ligament</i>, or <i>true ligament</i>.</dd>
@@ -805,7 +837,8 @@
 <dd class=""glossary"">A cell filled with basophil granules, found in numbers in connective tissue and releasing histamine and other substances during inflammatory and allergic reactions.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Mating"" title=""Mating"">mating</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Medulla_oblongata"" title=""Medulla oblongata"">medulla</a>"|"
 <dd class=""glossary"">The continuation of the spinal cord within the skull, forming the lowest part of the brainstem and containing control centres for the heart and lungs.</dd>
@@ -820,10 +853,12 @@
 <dd class=""glossary"">A large family of RNA molecules that convey genetic information from DNA to the ribosome.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Metabolism"" title=""Metabolism"">metabolism</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Metamorphosis"" title=""Metamorphosis"">metamorphosis</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Metaphase"" title=""Metaphase"">metaphase</a>"|"
 <dd class=""glossary"">The third phase of mitosis, in which duplicated genetic material carried in the nucleus of a parent cell is separated into two identical daughter cells. During metaphase, the cell's chromosomes align themselves in the middle of the cell through a type of cellular ""tug of war"".</dd>
@@ -854,10 +889,12 @@
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Molecule"" title=""Molecule"">molecule</a> that ""can undergo polymerization thereby contributing constitutional units to the essential structure of a macromolecule"".</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Morphology_(biology)"" title=""Morphology (biology)"">morphology</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Motility"" title=""Motility"">motile</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Motor_neuron"" title=""Motor neuron"">motor neuron</a>"|"
 <dd class=""glossary"">A neuron whose cell body is situated in the motor <a href=""https://en.wikipedia.org/wiki/Motor_cortex"" title=""Motor cortex"">cortex</a>, <a href=""https://en.wikipedia.org/wiki/Brainstem"" title=""Brainstem"">brainstem</a> or the <a href=""https://en.wikipedia.org/wiki/Spinal_cord"" title=""Spinal cord"">spinal cord</a>, and whose axon (fiber) projects to the spinal cord or outside of the spinal cord to directly or indirectly control effector organs, mainly muscles and glands.</dd>
@@ -912,10 +949,12 @@
 <dd class=""glossary"">An organic compound which serves as the fundamental <a href=""#monomer""><span title=""See entry on this page at § monomer"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">monomer</span></a> used in the construction of <a href=""#nucleic_acid""><span title=""See entry on this page at § nucleic acid"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">nucleic acid</span></a> polymers, such as <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a> and <a href=""#rNA""><span title=""See entry on this page at § RNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">RNA</span></a>, both of which are essential biomolecules within all living organisms.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Offspring"" title=""Offspring"">offspring</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Order_(biology)"" title=""Order (biology)"">order</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Organ_(anatomy)"" title=""Organ (anatomy)"">organ</a>"|"
 <dd class=""glossary"">A collection of <a href=""#tissue""><span title=""See entry on this page at § tissue"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">tissues</span></a> joined in a structural unit to serve a common function.</dd>
@@ -936,7 +975,8 @@
 <dd class=""glossary"">The development of a similar trait in related, but distinct, species descending from the same <a href=""https://en.wikipedia.org/wiki/Ancestor"" title=""Ancestor"">ancestor</a>, but from different clades.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Parasite"" class=""mw-redirect"" title=""Parasite"">parasite</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Parasitology"" title=""Parasitology"">parasitology</a>"|"
 <dd class=""glossary"">The study of parasites, their hosts, and the relationship between them. As a biological discipline, the scope of parasitology is not determined by the organism or environment in question, but by their way of life.</dd>
@@ -945,7 +985,8 @@
 <dd class=""glossary"">The study or practice of pathology with greater emphasis on the biological than on the medical aspects.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Pathogen"" title=""Pathogen"">pathogen</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Pathology"" title=""Pathology"">pathology</a>"|"
 <dd class=""glossary"">A medical specialty that is concerned with the diagnosis of disease based on the laboratory analysis of bodily fluids such as blood and urine, as well as tissues, using the tools of chemistry, clinical microbiology, hematology and molecular pathology.</dd>
@@ -966,13 +1007,16 @@
 <dd class=""glossary"">The conducting tissue in plants responsible for the conduction of food particles.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Photosynthesis"" title=""Photosynthesis"">photosynthesis</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Phylogeny"" class=""mw-redirect"" title=""Phylogeny"">phylogeny</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Phylum"" title=""Phylum"">phylum</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Physiology"" title=""Physiology"">physiology</a>"|"
 <dd class=""glossary"">The branch of biology dealing with the functions and activities of living organisms and their parts, including all physical and chemical processes.</dd>
@@ -987,7 +1031,8 @@
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Chemical_substance"" title=""Chemical substance"">substance</a> or treatment of no intended therapeutic value.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Plant"" title=""Plant"">plant</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Plasmolysis"" title=""Plasmolysis"">plasmolysis</a>"|"
 <dd class=""glossary"">The process in which <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cells</span></a> lose water in a <a href=""https://en.wikipedia.org/wiki/Hypertonic_solution"" class=""mw-redirect"" title=""Hypertonic solution"">hypertonic solution</a>.</dd>
@@ -1005,7 +1050,8 @@
 <dd class=""glossary"">Having or containing more than two complete sets of <a href=""#chromosome""><span title=""See entry on this page at § chromosome"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">chromosomes</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Population_(biology)"" class=""mw-redirect"" title=""Population (biology)"">population</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Population_biology"" title=""Population biology"">population biology</a>"|"
 <dd class=""glossary"">The study of populations of organisms, especially the regulation of population size, life history traits such as clutch size, and extinction.</dd>
@@ -1017,10 +1063,12 @@
 <dd class=""glossary"">A biological interaction in which a <a href=""https://en.wikipedia.org/wiki/Predator"" class=""mw-redirect"" title=""Predator"">predator</a> kills and eats its <a href=""https://en.wikipedia.org/wiki/Prey"" class=""mw-redirect"" title=""Prey"">prey</a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Predator"" class=""mw-redirect"" title=""Predator"">predator</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Prey"" class=""mw-redirect"" title=""Prey"">prey</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Primase"" title=""Primase"">primase</a>"|"
 <dd class=""glossary"">A type of <a href=""https://en.wikipedia.org/wiki/RNA_polymerase"" title=""RNA polymerase"">RNA polymerase</a> involved in the replication of <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a>.</dd>
@@ -1044,7 +1092,8 @@
 <dd class=""glossary"">A three-dimensional arrangement of <a href=""https://en.wikipedia.org/wiki/Atoms"" class=""mw-redirect"" title=""Atoms"">atoms</a> in an amino acid-chain molecule.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Protist"" title=""Protist"">protist</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Psychobiology"" class=""mw-redirect"" title=""Psychobiology"">psychobiology</a>"|"
 <dd class=""glossary"">The application of the principles of biology to the study of physiological, genetic, and developmental mechanisms of behavior in humans and other animals. Also called <i>behavioral neuroscience</i>, <i>biological psychology</i>, and <i>biopsychology</i>.</dd>
@@ -1056,7 +1105,8 @@
 <dd class=""glossary"">Giving birth to one of its kind, <a href=""#sexual_reproduction""><span title=""See entry on this page at § sexual reproduction"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">sexually</span></a> or <a href=""#asexual_reproduction""><span title=""See entry on this page at § asexual reproduction"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">asexually</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Reproductive_biology"" title=""Reproductive biology"">reproductive biology</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Ribonucleic_acid"" class=""mw-redirect"" title=""Ribonucleic acid"">ribonucleic acid</a> (RNA)"|"
 <dd class=""glossary"">A <a href=""#nucleic_acid""><span title=""See entry on this page at § nucleic acid"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">nucleic acid</span></a> <a href=""#polymer""><span title=""See entry on this page at § polymer"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">polymer</span></a> composed of a series of <a href=""https://en.wikipedia.org/wiki/Ribonucleotide"" title=""Ribonucleotide"">ribonucleotides</a> which incorporate a set of four <a href=""https://en.wikipedia.org/wiki/Nucleobase"" title=""Nucleobase"">nucleobases</a>: <a href=""#adenine""><span title=""See entry on this page at § adenine"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">adenine</span></a> (A), <a href=""#guanine""><span title=""See entry on this page at § guanine"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">guanine</span></a> (G), <a href=""#cytosine""><span title=""See entry on this page at § cytosine"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cytosine</span></a> (C), and <a href=""#uracil""><span title=""See entry on this page at § uracil"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">uracil</span></a> (U). Closely related to <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a>, RNA molecules serve in a wide variety of essential biological roles, including <a href=""#genetic_code""><span title=""See entry on this page at § genetic code"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">coding</span></a>, <a href=""#translation""><span title=""See entry on this page at § translation"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">decoding</span></a>, regulating, and expressing <a href=""#gene""><span title=""See entry on this page at § gene"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">genes</span></a>, as well as functioning as signaling molecules.</dd>
@@ -1080,10 +1130,12 @@
 <dd class=""glossary"">See <i><a href=""#artificial_selection""><span title=""See entry on this page at § artificial selection"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">artificial selection</span></a></i>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sessility_(motility)"" title=""Sessility (motility)"">sessile</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sex"" title=""Sex"">sex</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sexual_reproduction"" title=""Sexual reproduction"">sexual reproduction</a>"|"
 <dd class=""glossary"">A type of <a href=""#reproduction""><span title=""See entry on this page at § reproduction"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">reproduction</span></a> in which <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cells</span></a> from two parents unite to form the first cell of a new organism.</dd>
@@ -1104,10 +1156,12 @@
 <dd class=""glossary"">The evolutionary process by which populations evolve to become distinct <a href=""#species""><span title=""See entry on this page at § species"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">species</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sperm"" title=""Sperm"">sperm</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Spore"" title=""Spore"">spore</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Stem_cell"" title=""Stem cell"">stem cell</a>"|"
 <dd class=""glossary"">The biological cells that can differentiate into other types of cells and can divide to produce more of the same type of stem cells.</dd>
@@ -1116,7 +1170,8 @@
 <dd class=""glossary"">A biologically active organic compound with four rings arranged in a specific molecular configuration.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Strain_(biology)"" title=""Strain (biology)"">strain</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Structural_biology"" title=""Structural biology"">structural biology</a>"|"
 <dd class=""glossary"">The branch of <a href=""#molecular_biology""><span title=""See entry on this page at § molecular biology"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">molecular biology</span></a>, <a href=""#biochemistry""><span title=""See entry on this page at § biochemistry"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">biochemistry</span></a>, and <a href=""#biophysics""><span title=""See entry on this page at § biophysics"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">biophysics</span></a> concerned with the molecular structure of biological <a href=""#macromolecule""><span title=""See entry on this page at § macromolecule"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">macromolecules</span></a>, especially <a href=""#protein""><span title=""See entry on this page at § protein"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">proteins</span></a> and <a href=""#nucleic_acid""><span title=""See entry on this page at § nucleic acid"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">nucleic acids</span></a>, how they acquire the structures they have, and how alterations in their structures affect their function.</dd>
@@ -1125,7 +1180,8 @@
 <dd class=""glossary"">An evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms occurring from symbiosis.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Symbiont"" class=""mw-redirect"" title=""Symbiont"">symbiont</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Symbiosis"" title=""Symbiosis"">symbiosis</a>"|"
 <dd class=""glossary"">Any close and long-term biological interaction between two different biological organisms, regardless of the nature or degree of the effect on either organism. Examples include <a href=""https://en.wikipedia.org/wiki/Mutualism_(biology)"" title=""Mutualism (biology)"">mutualism</a>, <a href=""https://en.wikipedia.org/wiki/Commensalism"" title=""Commensalism"">commensalism</a>, and <a href=""https://en.wikipedia.org/wiki/Parasitism"" title=""Parasitism"">parasitism</a>.</dd>
@@ -1137,7 +1193,8 @@
 <dd class=""glossary"">The scientific study of biodiversity. It is concerned with the discovering and naming of new species of organisms (nomenclature) and arranging these taxa into classification schemes (taxonomy). A large part of modern systematics concerns establishing the evolutionary relationships among various taxa (phylogenetics) using methods of comparative biology (e.g. physiology, behavior, biochemistry, morphology, genetics) and statistical analysis.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Systems_biology"" title=""Systems biology"">systems biology</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/T_cell"" title=""T cell"">T cell</a>"|"
 <dd class=""glossary"">A type of <a href=""https://en.wikipedia.org/wiki/Lymphocyte"" title=""Lymphocyte"">lymphocyte</a> that plays a central role in cell-mediated <a href=""https://en.wikipedia.org/wiki/Immunity_(medical)"" title=""Immunity (medical)"">immunity</a>.</dd>
@@ -1146,10 +1203,12 @@
 <dd class=""glossary"">A group of one or more populations of an organism or organisms seen by <a href=""https://en.wikipedia.org/wiki/Taxonomists"" class=""mw-redirect"" title=""Taxonomists"">taxonomists</a> to form a unit.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Taxonomy_(biology)"" title=""Taxonomy (biology)"">taxonomy</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Telophase"" title=""Telophase"">telophase</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Testosterone"" title=""Testosterone"">testosterone</a>"|"
 <dd class=""glossary"">The primary male sex hormone and an anabolic <a href=""https://en.wikipedia.org/wiki/Steroid"" title=""Steroid"">steroid</a>.</dd>
@@ -1158,10 +1217,12 @@
 <dd class=""glossary"">One of the four <a href=""https://en.wikipedia.org/wiki/Nucleobases"" class=""mw-redirect"" title=""Nucleobases"">nucleobases</a> in the nucleic acid of <a href=""#dNA""><span title=""See entry on this page at § DNA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">DNA</span></a> that are represented by the letters G–C–A–T.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Tissue_(biology)"" title=""Tissue (biology)"">tissue</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Phenotypic_trait"" title=""Phenotypic trait"">trait</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Transcription_(genetics)"" class=""mw-redirect"" title=""Transcription (genetics)"">transcription</a>"|"
 <dd class=""glossary"">Transcription is the first step of gene expression, in which a particular segment of DNA is copied into RNA (mRNA) by the enzyme RNA polymerase. Both RNA and DNA are nucleic acids, which use base pairs of nucleotides as a complementary language.</dd>
@@ -1201,13 +1262,15 @@
 <dd class=""glossary"">The widening of blood vessels.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Vector_(epidemiology)"" title=""Vector (epidemiology)"">vector</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Vegetative_reproduction"" title=""Vegetative reproduction"">vegetative reproduction</a>"|"
 <dd class=""glossary"">The type of reproduction in which sexual process is not involved, also known as asexual reproduction.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Vertebrate"" title=""Vertebrate"">vertebrate</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_biology"">""Glossary of biology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)"" title=""Vesicle (biology and chemistry)"">vesicle</a>"|"
 <dd class=""glossary"">A small structure within a <a href=""#cell""><span title=""See entry on this page at § cell"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cell</span></a>, or <a href=""https://en.wikipedia.org/wiki/Extracellular"" title=""Extracellular"">extracellular</a>, consisting of fluid enclosed by a lipid <a href=""https://en.wikipedia.org/wiki/Bilayer"" title=""Bilayer"">bilayer</a>.</dd>
